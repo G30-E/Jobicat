@@ -1,0 +1,9 @@
+<resources>
+    <color name="bluePrimary">#1976D2</color>
+    <color name="bluePrimaryDark">#115293</color>
+    <color name="blueAccent">#42A5F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grayLight">#F5F5F5</color>
+    <color name="textPrimary">#212121</color>
+</resources>
